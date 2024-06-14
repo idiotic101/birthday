@@ -10,18 +10,18 @@ body {
 }
 @media screen and (max-width: 600px)
 {
-	f1{
+	.images f1{
 	width:100%;
 	height: auto;
 	}
-	f2{
+	.images f2{
 	width:100%;
 	height: auto;
-	f3{
+	.images f3{
 	width:100%;
 	height:auto;
 	}
-	f4{
+	.images f4{
 	width:100%;
 	height:auto;
 	}
