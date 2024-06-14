@@ -11,20 +11,19 @@ body {
 @medi screen and (max-width: 600px)
 {
 	f1{
-	height: 63px;
-	width: 112px;
+	width:100%;
+	height: auto;
 	}
 	f2{
-	height: 63px;
-	width: 112px;
-	}
+	width:100%;
+	height: auto;
 	f3{
-	height: 63px;
-	width: 112px;
+	width:100%;
+	height:auto;
 	}
 	f4{
-	height: 63px;
-	width: 112px;
+	width:100%;
+	height:auto;
 	}
 		
 }
