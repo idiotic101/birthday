@@ -834,12 +834,12 @@ body {
 		background-image: url('bb/bulb_red.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 
 .bulb-glow-blue-after {
-	background-image: url('../../images/lights/bulb_blue.png');
+	background-image: url('bb/bulb_blue.png');
 	-webkit-animation: bulb_glow_blue_after linear 1.4s infinite;
 	-moz-animation: bulb_glow_blue_after linear 1.4s infinite;
 	-o-animation: bulb_glow_blue_after linear 1.4s infinite;
@@ -848,7 +848,7 @@ body {
 }
 
 .bulb-glow-blue-disco {
-	background-image: url('../../images/lights/bulb_blue.png');
+	background-image: url('bb/bulb_blue.png');
 	-webkit-animation: bulb_glow_blue_after linear 0.6s infinite;
 	-moz-animation: bulb_glow_blue_after linear 0.6s infinite;
 	-o-animation: bulb_glow_blue_after linear 0.6s infinite;
@@ -858,61 +858,61 @@ body {
 
 @-webkit-keyframes bulb_glow_blue_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_blue.png');
+		background-image: url('bb/bulb_blue.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @-moz-keyframes bulb_glow_blue_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_blue.png');
+		background-image: url('bb/bulb_blue.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @-o-keyframes bulb_glow_blue_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_blue.png');
+		background-image: url('bb/bulb_blue.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @-ms-keyframes bulb_glow_blue_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_blue.png');
+		background-image: url('bb/bulb_blue.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @keyframes bulb_glow_blue_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_blue.png');
+		background-image: url('bb/bulb_blue.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 .bulb-glow-green-after {
-	background-image: url('../../images/lights/bulb_green.png');
+	background-image: url('bb/bulb_green.png');
 	-webkit-animation: bulb_glow_green_after linear 1.8s infinite;
 	-moz-animation: bulb_glow_green_after linear 1.8s infinite;
 	-o-animation: bulb_glow_green_after linear 1.8s infinite;
@@ -921,7 +921,7 @@ body {
 }
 
 .bulb-glow-green-disco {
-	background-image: url('../../images/lights/bulb_green.png');
+	background-image: url('bb/bulb_green.png');
 	-webkit-animation: bulb_glow_green_after linear 0.8s infinite;
 	-moz-animation: bulb_glow_green_after linear 0.8s infinite;
 	-o-animation: bulb_glow_green_after linear 0.8s infinite;
@@ -931,62 +931,62 @@ body {
 
 @-webkit-keyframes bulb_glow_green_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_green.png');
+		background-image: url('bb/bulb_green.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 
 @-moz-keyframes bulb_glow_green_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_green.png');
+		background-image: url('bb/bulb_green.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @-o-keyframes bulb_glow_green_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_green.png');
+		background-image: url('bb/bulb_green.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @-ms-keyframes bulb_glow_green_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_green.png');
+		background-image: url('bb/bulb_green.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @keyframes bulb_glow_green_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_green.png');
+		background-image: url('bb/bulb_green.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 .bulb-glow-pink-after {
-	background-image: url('../../images/lights/bulb_pink.png');
+	background-image: url('bb/bulb_pink.png');
 	-webkit-animation: bulb_glow_pink_after linear 2s infinite;
 	-moz-animation: bulb_glow_pink_after linear 2s infinite;
 	-o-animation: bulb_glow_pink_after linear 2s infinite;
@@ -995,7 +995,7 @@ body {
 }
 
 .bulb-glow-pink-disco {
-	background-image: url('../../images/lights/bulb_pink.png');
+	background-image: url('bb/bulb_pink.png');
 	-webkit-animation: bulb_glow_pink_after linear 1s infinite;
 	-moz-animation: bulb_glow_pink_after linear 1s infinite;
 	-o-animation: bulb_glow_pink_after linear 1s infinite;
@@ -1005,61 +1005,61 @@ body {
 
 @-webkit-keyframes bulb_glow_pink_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_pink.png');
+		background-image: url('bb/bulb_pink.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @-moz-keyframes bulb_glow_pink_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_pink.png');
+		background-image: url('bb/bulb_pink.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @-o-keyframes bulb_glow_pink_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_pink.png');
+		background-image: url('bb/bulb_pink.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @-ms-keyframes bulb_glow_pink_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_pink.png');
+		background-image: url('bb/bulb_pink.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @keyframes bulb_glow_pink_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_pink.png');
+		background-image: url('bb/bulb_pink.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 .bulb-glow-orange-after {
-	background-image: url('../../images/lights/bulb_orange.png');
+	background-image: url('bb/bulb_orange.png');
 	-webkit-animation: bulb_glow_orange_after linear 2.2s infinite;
 	-moz-animation: bulb_glow_orange_after linear 2.2s infinite;
 	-o-animation: bulb_glow_orange_after linear 2.2s infinite;
@@ -1068,7 +1068,7 @@ body {
 }
 
 .bulb-glow-orange-disco {
-	background-image: url('../../images/lights/bulb_orange.png');
+	background-image: url('bb/bulb_orange.png');
 	-webkit-animation: bulb_glow_orange_after linear 1.2s infinite;
 	-moz-animation: bulb_glow_orange_after linear 1.2s infinite;
 	-o-animation: bulb_glow_orange_after linear 1.2s infinite;
@@ -1078,57 +1078,57 @@ body {
 
 @-webkit-keyframes bulb_glow_orange_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_orange.png');
+		background-image: url('bb/bulb_orange.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @-moz-keyframes bulb_glow_orange_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_orange.png');
+		background-image: url('bb/bulb_orange.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @-o-keyframes bulb_glow_orange_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_orange.png');
+		background-image: url('bb/bulb_orange.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @-ms-keyframes bulb_glow_orange_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_orange.png');
+		background-image: url('bb/bulb_orange.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 @keyframes bulb_glow_orange_after {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 	50%{
-		background-image: url('../../images/lights/bulb_orange.png');
+		background-image: url('bb/bulb_orange.png');
 	}
 	100%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('bb/bulb.png');
 	}
 }
 .song {
@@ -1265,28 +1265,28 @@ body {
 	display: none;
 }
 #b1,#b11 {
-	background-image: url('../../images/ballons/b1.png');
+	background-image: url('bb/b1.png');
 }
 #b2,#b22 {
-	background-image: url('../../images/ballons/b2.png');
+	background-image: url('bb/b2.png');
 }
 #b3,#b33 {
-	background-image: url('../../images/ballons/b3.png');
+	background-image: url('bb/b3.png');
 }
 #b4,#b44{
-	background-image: url('../../images/ballons/b4.png');
+	background-image: url('bb/b4.png');
 }
 #b5,#b55{
-	background-image: url('../../images/ballons/b5.png');
+	background-image: url('bb/b5.png');
 }
 #b6,#b66{
-	background-image: url('../../images/ballons/b6.png');
+	background-image: url('bb/b6.png');
 }
 #b7,#b77{
-	background-image: url('../../images/ballons/b7.png');
+	background-image: url('bb/b7.png');
 }
 #b8,#b88{
-	background-image: url('../../images/ballons/b7.png');
+	background-image: url('bb/b7.png');
 }
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
