@@ -252,66 +252,66 @@ body {
 
 @-webkit-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('../../pictures/complex/bulb.png');
+		background-image: url('../pictures/complex/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('../../pictures/complex/bulb_yellow.png');
+		background-image: url('../pictures/complex/bulb_yellow.png');
 		opacity: 1;
 	}
 }
 @-moz-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('../../pictures/complex/bulb.png');
+		background-image: url('../pictures/complex/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('../../pictures/complex/bulb_yellow.png');
+		background-image: url('../pictures/complex/bulb_yellow.png');
 		opacity: 1;
 	}
 }
 @-o-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('../../pictures/complex/bulb.png');
+		background-image: url('../pictures/complex/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('../../pictures/complex/bulb_yellow.png');
+		background-image: url('../pictures/complex/bulb_yellow.png');
 		opacity: 1;
 	}
 }
 @-ms-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('../../pictures/complex/bulb.png');
+		background-image: url('../pictures/complex/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('../../pictures/complex/bulb_yellow.png');
+		background-image: url('../pictures/complex/bulb_yellow.png');
 		opacity: 1;
 	}
 }
 @keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('../../pictures/complex/bulb.png');
+		background-image: url('../pictures/complex/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('../../pictures/complex/bulb_yellow.png');
+		background-image: url('../pictures/complex/bulb_yellow.png');
 		opacity: 1;
 	}
 }
