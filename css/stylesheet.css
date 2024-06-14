@@ -8,6 +8,27 @@ body {
 	transition:background-color linear 5s;
 	overflow-x:hidden;
 }
+@medi screen and (max-width: 600px)
+{
+	f1{
+	height: 63px;
+	width: 112px;
+	}
+	f2{
+	height: 63px;
+	width: 112px;
+	}
+	f3{
+	height: 63px;
+	width: 112px;
+	}
+	f4{
+	height: 63px;
+	width: 112px;
+	}
+		
+}
+		
 .container {
 	display: none;
 }
