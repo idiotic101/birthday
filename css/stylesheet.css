@@ -8,7 +8,7 @@ body {
 	transition:background-color linear 5s;
 	overflow-x:hidden;
 }
-@medi screen and (max-width: 600px)
+@media screen and (max-width: 600px)
 {
 	f1{
 	width:100%;
