@@ -242,7 +242,7 @@ body {
 }
 
 .bulb-glow-yellow {
-	background-image: url('../../images/lights/bulb_yellow.png');
+	background-image: url('../../pictures/complex/bulb_yellow.png');
 	-webkit-animation: bulb_glow_yellow linear 5s;
 	-moz-animation: bulb_glow_yellow linear 5s;
 	-o-animation: bulb_glow_yellow linear 5s;
@@ -252,66 +252,66 @@ body {
 
 @-webkit-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('../../pictures/complex/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('../../images/lights/bulb_yellow.png');
+		background-image: url('../../pictures/complex/bulb_yellow.png');
 		opacity: 1;
 	}
 }
 @-moz-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('../../pictures/complex/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('../../images/lights/bulb_yellow.png');
+		background-image: url('../../pictures/complex/bulb_yellow.png');
 		opacity: 1;
 	}
 }
 @-o-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('../../pictures/complex/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('../../images/lights/bulb_yellow.png');
+		background-image: url('../../pictures/complex/bulb_yellow.png');
 		opacity: 1;
 	}
 }
 @-ms-keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('../../pictures/complex/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('../../images/lights/bulb_yellow.png');
+		background-image: url('../../pictures/complex/bulb_yellow.png');
 		opacity: 1;
 	}
 }
 @keyframes bulb_glow_yellow {
 	0%{
-		background-image: url('../../images/lights/bulb.png');
+		background-image: url('../../pictures/complex/bulb.png');
 		opacity: 0;
 	}
 	50%{
 		opacity: 1;
 	}
 	100%{
-		background-image: url('../../images/lights/bulb_yellow.png');
+		background-image: url('../../pictures/complex/bulb_yellow.png');
 		opacity: 1;
 	}
 }
