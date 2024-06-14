@@ -8,25 +8,6 @@ body {
 	transition:background-color linear 5s;
 	overflow-x:hidden;
 }
-@media screen and (max-width: 600px)
-{
-	.images f1{
-	width:100%;
-	height: auto;
-	}
-	.images f2{
-	width:100%;
-	height: auto;
-	.images f3{
-	width:100%;
-	height:auto;
-	}
-	.images f4{
-	width:100%;
-	height:auto;
-	}
-		
-}
 		
 .container {
 	display: none;
