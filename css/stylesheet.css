@@ -1577,6 +1577,12 @@ body {
 	z-index: 9999;
 	width: 12%;
 	height: 20%;
+	max-width: 100%;
+	-webkit-transform:translate(0px,-500px);
+	-moz-transform:translate(0px,-500px);
+	-o-transform:translate(0px,-500px);
+	-ms-transform:translate(0px,-500px);
+	transform:translate(0px,-500px);
 }
 
 
