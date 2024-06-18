@@ -1,4 +1,4 @@
-var password="singlasrishti7@gmail.com";
+var password="7";
 function passcheck() {
 
 if(document.getElementById('pass1').value != password){
