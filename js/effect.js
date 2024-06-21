@@ -161,7 +161,7 @@ $('document').ready(function(){
 		$('#f2').animate({top:mid-mid_diff*4,left:vw-vw_diff*8},3000);
 
 		$('#f5').css({"display": "block", "top":500*Math.random()+'px',"right":'0px'});
-		$('#f5').animate({top:mid-mid_diff,left:vw+vw_diff*6},3000);
+		$('#f5').animate({top:mid-mid_diff*4,left:vw+vw_diff*10},3000);
 
 		$('#f6').css({"display": "block", "top":500*Math.random()+'px',"right":'0px'});
 		$('#f6').animate({top:mid-mid_diff,left:vw-vw_diff*6},3000);
